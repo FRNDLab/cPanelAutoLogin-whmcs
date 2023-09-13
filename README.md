@@ -22,3 +22,9 @@ Agregue:
 Deberia verse asi:<br/>
 
 ![Screenshot 2023-09-13 055811](https://github.com/mariofernandu/cPanelAutoLogin-whmcs/assets/102629955/4305927c-141e-40ee-b170-0f81d9439906)
+
+En el caso de Lagom, este seria el resultado:
+
+![image](https://github.com/mariofernandu/cPanelAutoLogin-whmcs/assets/102629955/a3688acd-d3a6-4b3f-97b4-071bf36ab1aa)
+
+
