@@ -6,18 +6,10 @@ Funciona con <a href="https://www.modulesgarden.com/products/whmcs/cpanel-extend
 En la carpeta de su tema activo, busque el archivo <b>clientareaproductdetails.tpl</b>
 
 Despues de:
-<pre>
-  <code>
-    {$moduleclientarea}
-  </code>
-</pre>
+<pre><code>{$moduleclientarea}</code></pre>
 
 Agregue:
-<pre>
-  <code>
-    {$cPanelAutoLogin}
-  </code>
-</pre>
+<pre><code>{$cPanelAutoLogin}</code></pre>
 
 Deberia verse asi:<br/>
 
